@@ -1,0 +1,12 @@
+android studio
+firebase
+ionic
+
+generar 5 aplicacion con ionic
+
+su primer pagina debe ser un login(puede concectar con local storage y firebase)
+
+los 5 login deben ser diferentes(esteticamente).
+
+las aplicaciones generan in ID el cual si no es cambiado se pisaran entre si y solo instalara la ultima aplicacion
+
